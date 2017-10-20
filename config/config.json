@@ -1,0 +1,7 @@
+{
+  "development": {
+    "host": "localhost",
+    "dialect": "sqlite",
+    "storage": "database.sqlite"
+  }
+}
